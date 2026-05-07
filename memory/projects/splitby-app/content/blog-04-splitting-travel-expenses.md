@@ -52,8 +52,24 @@ With Splitby: 2-minute settlement, everyone paid exactly their share, and the gr
 
 Splitby isn't just for vacations. Use it for:
 - Monthly rent and utilities
-- Grocery runs and household supplies
+- Grocery runs and household supplies  
 - Shared subscriptions (Netflix, Spotify family plans)
+
+## Quick Start: Your First Trip in 3 Steps
+
+**Step 1**: Create a group named after your trip (e.g., "Barcelona 2026")
+
+**Step 2**: Add travelers and set your base currency
+
+**Step 3**: Log expenses as they happen — Splitby handles the math
+
+That's it. No spreadsheets. No awkward conversations. Just fair, transparent expense sharing.
+
+## Ready to Travel Without the Money Stress?
+
+Download Splitby and make your next group trip the easiest one yet.
+
+[Get Splitby Free →](https://splitby.app)
 - One-off repairs and replacements
 
 ## Get Started Today

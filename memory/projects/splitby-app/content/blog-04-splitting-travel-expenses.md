@@ -1,67 +1,57 @@
 # Splitting Travel Expenses with Friends
 
-Traveling with friends creates memories that last a lifetime — but untracked expenses can strain even the strongest friendships. Splitby makes group travel accounting effortless so you can focus on adventure, not arithmetic.
+Traveling with friends creates memories that last a lifetime — but untangling who paid for what can turn the post-trip glow into a headache. Splitby makes it effortless to track, calculate, and settle shared travel costs so you can focus on the stories, not the spreadsheets.
 
-## The Problem: Mental Math Meltdown
+## The travel expense tangle
 
-Picture this: you're on a 7-day European trip with 4 friends. One person booked flights, another handled hotels, someone else covered dinners, and there are countless taxis, museum tickets, and gelato stops in between. By day 4, trying to remember who paid what becomes a spreadsheet nightmare.
+Group trips layer expenses fast: flights, trains, rental cars, hotels, Airbnb, meals, groceries, gas, tolls, parking, excursions, tips. One person pays the Airbnb, another books flights, someone else fronts the car and daily meals. Receipts fade, currencies differ, and mental math breaks down.
 
-Common pain points:
-- **Receipt anxiety**: "Did I pay for that Airbnb or was it Sarah?"
-- **Currency confusion**: €45 vs $49 vs 3800 JPY — mental conversion fails
-- **Uneven splits**: Not everyone shares every expense equally
-- **Settlement stress**: Week 2 arguments about who owes what
+Without a system, you end up with:
 
-## How Splitby Solves It
+- Unclear who paid what
+- Uneven splits that feel unfair
+- Forgotten expenses that resurface weeks later
+- Tedious manual calculations across currencies and exchange rates
 
-### Real-Time Expense Capture
-Open Splitby, tap "+ Expense," enter amount, category, and payer. The app instantly updates everyone's running balance. No receipt photos required — just tap and go.
+## How Splitby simplifies travel splits
 
-### Smart Splitting Options
-- **Equal split**: Divide by number of travelers
-- **Unequal shares**: Custom percentages for that fancy dinner
-- **Individual items**: Track what each person consumed
-- **Multi-currency**: Auto-convert with live exchange rates
+**Capture every expense in seconds** — photo receipt, quick amount entry, optional description and category. Tag who was included. Splitby records who paid and who owes.
 
-### Group Balance Clarity
-See at a glance who's in the red and who's owed money. Exportable settlement sheets make end-of-trip reimbursements instant — Venmo/PayPal links ready to send.
+**Smart splits for every situation** — choose equal split, split by shares (who had what), or custom amounts. Splitby supports uneven splits for rooms with different beds, meals with different prices, or partial participation.
 
-## Pro Tips for Stress-Free Group Travel
+**Multi-currency made easy** — enter amounts in local currencies. Splitby converts using up-to-date rates and shows everyone’s balance in their preferred currency.
 
-**Pre-trip Setup**
-Create your Splitby group before departure. Add all travelers, set default currency, and establish ground rules (e.g., "all shared meals split equally").
+**Real-time balances** — see at a glance who is owed and who owes. No more group chat threads full of "Wait, did you include the gas?" 
 
-**Daily Check-ins**
-Spend 5 minutes each evening reviewing expenses. Catch discrepancies immediately while memories are fresh.
+**Settle up options** — calculate the simplest repayment plan with the fewest transactions. Pay via your preferred method and mark settled in Splitby.
 
-**Designate Payers**
-Rotate who handles reservations to distribute costs fairly. Splitby tracks who fronted cash so reimbursements flow correctly.
+## Travel split workflow
 
-**Emergency Fund**
-Keep a shared "emergency" expense category for unexpected costs — medical, transport delays, gear replacement.
+1. **Pre-trip group** — Create a Splitby group for the trip. Add friends and currencies you’ll use.
+2. **Record as you go** — One tap to log an expense. Snap receipt, set payer, choose split, save.
+3. **Review daily** — Quick balance check keeps everyone aligned and avoids end-of-trip sticker shock.
+4. **Final settle-up** — Splitby shows total owed, suggests minimal repayments, and marks payments as you go.
 
-## From Chaos to Clarity: A Mini Case Study
+## Real-world example
 
-Alex, Ben, Chloe, and Dana spent 10 days across Japan. Alex handled JR Pass ($280), Ben paid hotels ($1200 total), Chloe covered most food ($650), Dana managed transport ($180). Mixed in: museum tickets, convenience store runs, a karaoke night.
+Four friends on a week-long European trip:
 
-Without Splitby: 3 hours of post-trip calculations, one forgotten 1500-yen ramen charge, and lingering resentment.
+- Anna books Airbnb in Berlin: €600 — split 4 ways → €150 each
+- Ben pays train Paris→Amsterdam: €120 — split 3 (Carla joined late) → €40 each for three
+- Carla covers groceries: €85 — split 4 → €21.25 each
+- Dan fronts dinner in Amsterdam: €140 — split 2 (Anna and Dan only) → €70 each
 
-With Splitby: 2-minute settlement, everyone paid exactly their share, and the group booked their next reunion before the flight home.
+After the trip, Splitby calculates each person’s net balance. Ben owes Anna €30, Carla owes Ben €18, Dan pays Carla €15. Three transactions settle everything.
 
-## Beyond Travel: Roommates & Shared Living
+## Beyond the basics
 
-Splitby isn't just for vacations. Use it for:
-- Monthly rent and utilities
-- Grocery runs and household supplies
-- Shared subscriptions (Netflix, Spotify family plans)
-- One-off repairs and replacements
+- **Categories and tags** — Filter by meals, lodging, transport to see spending patterns.
+- **Shared budgets** — Set daily or trip budgets and get alerts when you’re nearing limits.
+- **Offline mode** — Record expenses without signal; sync when you’re back online.
+- **Export and share** — Download CSV or PDF summary for personal records or reimbursements.
 
-## Get Started Today
+## Why it matters
 
-Download Splitby, create your first group, and never do mental expense math again. Your friendships — and your sanity — will thank you.
+Money tensions can sour friendships. Clarity and fairness remove that friction. Splitby automates the accounting so you can automate the good times.
 
-**Travel tip**: Snap a photo of receipts as backup, but rely on Splitby for real-time tracking. The app's offline mode syncs when you're back online, perfect for those remote mountain lodge stays.
-
---
-
-*Tag friends who need this for your next adventure. Have a Splitby travel story? Share it in comments — best story gets featured next week.*
+Travel is about connection — not calculators. Keep it that way.
